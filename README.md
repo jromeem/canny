@@ -1,2 +1,6 @@
 ## canny-landing
-- canny landing page
+- development:
+    - from the root folder: `npm run serve`
+- testing:
+    - npm test
+-  
